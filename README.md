@@ -1,6 +1,6 @@
 # Inspect a Website
 
-Are you curious about how a website is structured? This web application allows users to not only fetch and inspect a website's HTML, but also preview the overall website.
+Are you curious about how a amazing website is structured? This web application allows users to not only fetch and inspect a website's HTML, but also preview the overall website.
 
 ![image](/static/homepage.png)
 ![image](/static/results.png)
